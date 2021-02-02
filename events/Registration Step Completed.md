@@ -1,6 +1,7 @@
 # Registration Step Completed
 
 Fire whenever a user completes a registration step.
+
 ## Javascript Code
 
 ```js
