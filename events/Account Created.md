@@ -1,4 +1,4 @@
-# User Registered
+# Account Created
 
 Fire whenever a user completes the process of registering for an account.
 
@@ -7,7 +7,7 @@ Fire whenever a user completes the process of registering for an account.
 ```js
 window.dataLayer = window.dataLayer || [];
 dataLayer.push({
-  "event": "User Registered",
+  "event": "Account Created",
   "authentication": {
     "method": "<method>",
   }
