@@ -9,7 +9,7 @@ window.dataLayer = window.dataLayer || [];
 dataLayer.push({
   event: 'Registration Completed',
   ecommerce: {
-    checkout: {
+    purchase: {
       actionField: {
         id: '<transactionId>',
         affiliation: '<tenderType>',
