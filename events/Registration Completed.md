@@ -24,19 +24,20 @@ dataLayer.push({
         category: '<category>',
         variant: '<variant>',
         quantity: 1,
-     }]
-   }
- },
- registrationFlow: {
-   stepName: '<stepName>',
-   stepNumber: '<stepNumber>',
-   participantType: '<participantType>',
-   fundraisingGoal: '<fundraisingGoal>',
-   initialDonationAmount: '<initialDonationAmount>',
-   teamRole: '<teamRole>',
-   teamName: '<teamName>',
-   discountCode: '<discountCode>'
- }
+      }]
+    }
+  },
+  registrationFlow: {
+    stepName: '<stepName>',
+    stepNumber: '<stepNumber>',
+    participantType: '<participantType>',
+    fundraisingGoal: '<fundraisingGoal>',
+    initialDonationAmount: '<initialDonationAmount>',
+    teamRole: '<teamRole>',
+    teamName: '<teamName>',
+    discountCode: '<discountCode>'
+    brand: '<brand>',
+  }
 });
 ```
 ## Variable Definitions
