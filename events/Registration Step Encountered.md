@@ -32,7 +32,7 @@ dataLayer.push({
     initialDonationAmount: '<initialDonationAmount>',
     teamRole: '<teamRole>',
     teamName: '<teamName>',
-    discountCode: '<discountCode>'
+    discountCode: '<discountCode>',
     brand: '<brand>',
   }
 });
