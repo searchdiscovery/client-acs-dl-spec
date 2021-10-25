@@ -9,7 +9,7 @@ window.dataLayer = window.dataLayer || [];
 dataLayer.push({
   event: 'Registration Step Encountered',
   ecommerce: {
-    purchase: {
+    checkout: {
       actionField: {
         step: '<stepNumber>',
       },
