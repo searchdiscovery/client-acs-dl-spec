@@ -8,7 +8,7 @@ Fire whenever a user performs a search of any kind. This includes product search
 window.dataLayer = window.dataLayer || [];
 dataLayer.push({
   event: "search",
-  corrected_term: "<corrected_term>"
+  corrected_term: "<corrected_term>",
   search_term: "<search_term>",
   search_type: "<search_type>",
 });
