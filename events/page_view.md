@@ -14,16 +14,21 @@ dataLayer.push({
   event: '<page_view>',
   brand: '<brand>',
   country: '<country>',
-  language: '<language>',
-  page_category: '<page_category>',
+  language: '<language>', 
+  destination_URL: '<destinion_URL>',
+  page_type: '<page_type>',
+  page_category: '<page_category>', 
+  page_subCategory1: '<page_subCategory1>',
   page_location: '<page_location>',
   page_referrer: '<page_referrer>', 
   page_title: '<page_title>',
-  page_name: '<page_name>',
+  page_name: '<page_name>', 
   region: '<region>',
   site_section: '<site_section>',
+  experience_type: '<experience_type>',
+  sys_environment: '<system_environment>',
   user_id: '<user_id>',
-  user_login_state: '<user_login_state>',
+  user_login_state: '<user_login_state>'
 });
 ```
 
