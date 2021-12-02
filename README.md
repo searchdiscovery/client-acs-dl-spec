@@ -1,4 +1,4 @@
-# ACS P2P Data Layer Spec
+# ACS Data Layer Spec
 
 ## Overview
 This repository contains the necessary specifications to build an Event Driven Data Layer.
